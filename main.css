@@ -1,0 +1,36 @@
+header {
+  text-align: center;
+  background-color: grey;
+  color: white;
+  padding: 10px 0 5px 0;
+}
+
+header .title{
+  font-size: 2.3em
+}
+
+header .subtitle{
+  font-size: 1.5em
+}
+
+.sidebar {
+  float: right;
+  border: 1px solid;
+  padding: 0px 2px 0 10px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+}
+
+.content {
+  padding: 0px 2px 0 10px;
+}
+
+.content ul{
+  list-style-type: square;
+}
+
+.content .block span.dates {
+  display: block;
+}
